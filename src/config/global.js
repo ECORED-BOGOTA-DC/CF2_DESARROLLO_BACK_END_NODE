@@ -129,32 +129,43 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '2.3. Comandos y direccionamiento básico',
+      referencia:
+        '© <i>OpenJS Foundation. (s. f.). Index | Node.js v18.1.0 Documentation</i>.',
+      tipo: 'Página web',
+      link: 'https://nodejs.org/api/',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: '<em>Middleware</em>',
+      significado:
+        'en Node.js, hace referencia a un bloque de código que es ejecutado en el medio desde que se hace una solicitud hasta que llega al servidor.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'ORM',
+      significado:
+        'modelo de programación que consiste en mapear tablas de un modelo relacional a objetos en el paradigma de programación orientada a objetos.',
+    },
+    {
+      termino: '<em>Shell</em>',
+      significado: 'ventana de comandos',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia: 'npm, Inc. (s.f.). <i>npm</i>. ',
+      link: 'https://Www.npmjs.Com',
+    },
+    {
+      referencia: 'Red Hat, Inc. (2020,). <i>¿Qué es una API de REST?</i> ',
+      link: 'https://www.redhat.com/es/topics/api/what-is-a-rest-api',
+    },
+    {
+      referencia:
+        'Stack Overflow. (2021a). <i>Stack Overflow Developer Survey 2021</i>. ',
+      link:
+        'https://insights.stackoverflow.com/survey/2021#most-popular-technologies-language-prof',
     },
   ],
   creditos: [
@@ -162,14 +173,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizabal',
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
           cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -177,9 +189,31 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Jonathan Guerrero Astaiza',
+          cargo: 'Experto temático',
+          centro:
+            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
+        },
+        {
+          nombre: 'María Fernanda Chacón Castro',
+          cargo: 'Diseñadora instruccional',
+          centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Asesor metodológico',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable equipo desarrollo curricular',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Corrector de estilo',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
       ],
     },
@@ -192,9 +226,10 @@ export default {
           centro: 'Nombre centro de formación',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jhon Jairo Urueta Alvarez',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Nombre',

@@ -2,10 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-
-    p Con el diagrama de actividades se termina la descripción de las tres técnicas usadas para la especificación y el análisis de requisitos, como se pudo analizar cada una de las técnicas nos brinda características para lograr representar gráficamente y de una forma clara, los requisitos que un usuario necesita poder cumplir satisfactoriamente con las solicitudes de los clientes y usuarios, por otro lado se pueden usar todas las técnicas en una especificación y análisis de requisitos si se ve la necesidad.
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
-
+    p.mb-5 El Node.js se considera un entorno de código abierto para JavaScript; asíncrono, diseñado para crear aplicaciones #[i network] escalables, por lo que se hace necesario conocer a profundidad sus generalidades, dependencias, comandos, herramientas y direccionamiento básico, entre otras cosas. De igual manera se debe conocer de construcción API con el fin de poder crear una API RESTful que logre una comunicación con MongoDB. Por esta razón este componente formativo profundizó estos temas, los cuales se resumen a través del siguiente esquema:
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
