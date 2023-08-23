@@ -24,15 +24,15 @@
               figure
                 img(src='@/assets/curso/tema1/img2.svg', style="width: 70px" ,alt='').m-auto
             .col
-              p.mb-0 #[i Application Programming Interfaces (API)], que traducido literalmente al español significa Interfaz de programación de aplicaciones; es esencialmente un conjunto de especificaciones, reglas y/o mecanismos que se definen para establecer la comunicación entre dos componentes de #[i software].
+              p.mb-0 #[i Application Programming Interfaces] (API), que traducido literalmente al español significa Interfaz de programación de aplicaciones; es esencialmente un conjunto de especificaciones, reglas y/o mecanismos que se definen para establecer la comunicación entre dos componentes de #[i software].
     p(data-aos="fade-right") Así, una API de REST o conocida también como API RESTful es una interfaz que permite la comunicación entre dos componentes de #[i software], usualmente, entre un sistema gestor de base de datos y una aplicación de #[i software] que la consume.
-    p.mb-5(data-aos="fade-right") Hasta aquí hemos agregado otro término, REST,
+    p.mb-5(data-aos="fade-right") Hasta aquí hemos agregado otro término, REST:
     .row.align-items-center.mb-3
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         figure.mb-4
           img(src='@/assets/curso/tema1/img3.svg', style="width: 850px" ,alt='').m-auto
-        p Una de las características de REST consiste en el no almacenamiento del estado; es decir, cada vez que se realiza una solicitud de transmisión, el emisor se debe identificar por medio de credenciales o tokens, ya que esta información no se almacena de ninguna forma. Aunque esto parece una desventaja, se encuentra que, al no tratar con el manejo de memoria, se disminuyen los procesos requeridos para el procesamiento de los datos y lo hace altamente compatible para ser utilizado por cualquier tecnología y para entornos con necesidades de escalamiento horizontal.
-        p.mb-0 Por medio de una API REST se pueden implementar los HTTPVerbs o los métodos HTTP, por medio de los cuales se especifica el tipo de solicitud que se realiza al servidor y así este puede dar el tratamiento adecuado y ofrecer respuestas correctas.
+        p Una de las características de REST consiste en el no almacenamiento del estado; es decir, cada vez que se realiza una solicitud de transmisión, el emisor se debe identificar por medio de credenciales o #[i tokens], ya que esta información no se almacena de ninguna forma. Aunque esto parece una desventaja, se encuentra que, al no tratar con el manejo de memoria, se disminuyen los procesos requeridos para el procesamiento de los datos y lo hace altamente compatible para ser utilizado por cualquier tecnología y para entornos con necesidades de escalamiento horizontal.
+        p.mb-0 Por medio de una API REST se pueden implementar los HTTP Verbs o los métodos HTTP, por medio de los cuales se especifica el tipo de solicitud que se realiza al servidor y así este puede dar el tratamiento adecuado y ofrecer respuestas correctas.
       .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/img2.png', style="width: 370px" ,alt='').m-auto
@@ -43,21 +43,21 @@
           .row.justify-content-center.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               p.mb-0 #[b GET]
-              p Consulta de información al servidor, equivale a una solicitud #[i find()] en NOSQL o SELECT en SQL.
+              p Consulta de información al servidor, equivale a una solicitud find() en NOSQL o SELECT en SQL.
             .col-lg-6
               figure
                 img(src='@/assets/curso/tema1/img3.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               p.mb-0 #[b POST]
-              p Este método se usa para el envío de información al servidor generalmente para realizar un proceso de registro de datos, obligatoriamente implica el envío de datos adicionales en la solicitud. Es equivalente a un comando tipo #[i InsertOne()] o #[i InsertMany()] en NoSQL o la sentencia INSERT en SQL.
+              p Este método se usa para el envío de información al servidor generalmente para realizar un proceso de registro de datos, obligatoriamente implica el envío de datos adicionales en la solicitud. Es equivalente a un comando tipo insertOne() o insertMany() en NoSQL o la sentencia INSERT en SQL.
             .col-lg-6
               figure
                 img(src='@/assets/curso/tema1/img4.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
           .row.justify-content-center.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               p.mb-0 #[b PUT]
-              p Este método es similar al anterior, pero se utiliza para la actualización de datos del lado del servidor. Es equivalente a un comando #[i updateOne()] o #[i updateMany()] en NOSQL o una sentencia UPDATE en SQL.
+              p Este método es similar al anterior, pero se utiliza para la actualización de datos del lado del servidor. Es equivalente a un comando updateOne() o updateMany() en NOSQL o una sentencia UPDATE en SQL.
             .col-lg-6
               figure
                 img(src='@/assets/curso/tema1/img5.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
@@ -71,7 +71,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-4.mb-4.mb-lg-0
               p.mb-0 #[b DELETE]
-              p Método utilizado para la eliminación de registro en el servidor. Es equivalente al comando #[i deleteOne()] o #[i deleteMany()] en NoSQL y a la sentencia DELETE de SQL.
+              p Método utilizado para la eliminación de registro en el servidor. Es equivalente al comando deleteOne() o deleteMany() en NoSQL y a la sentencia DELETE de SQL.
             .col-lg-6
               figure
                 img(src='@/assets/curso/tema1/img7.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
@@ -88,7 +88,7 @@
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema1/img9.png' alt='AvatarTop')
-        p.mb-0 Debe usar arquitectura tipo cliente servidor con manejo de solicitudes por medio del protocolo HTTP.
+        p.mb-0 Debe usar arquitectura tipo cliente-servidor con manejo de solicitudes por medio del protocolo HTTP.
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
           .col-12

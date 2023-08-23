@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Construcción de API RESTful Con Node.js',
     descripcionCurso:
-      'En este componente formativo se hará uso de Node.JS para crear una API RESTful que se comunique con una base de datos MongoDB para permitir la ejecución de algunas operaciones CRUD.',
+      'En este componente formativo se hará uso de Node.js para crear una API RESTful que se comunique con una base de datos MongoDB para permitir la ejecución de algunas operaciones CRUD.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
@@ -48,7 +48,7 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Documentos',
+            titulo: 'Instalación de herramientas',
             hash: 't_2_1',
           },
           {
@@ -131,14 +131,14 @@ export default {
     {
       tema: '2.3. Comandos y direccionamiento básico',
       referencia:
-        '© <i>OpenJS Foundation. (s. f.). Index | Node.js v18.1.0 Documentation</i>.',
+        '© OpenJS Foundation. (s. f.). <i>Index | Node.js v18.1.0 Documentation</i>.',
       tipo: 'Página web',
       link: 'https://nodejs.org/api/',
     },
   ],
   glosario: [
     {
-      termino: '<em>Middleware</em>',
+      termino: 'Middleware',
       significado:
         'en Node.js, hace referencia a un bloque de código que es ejecutado en el medio desde que se hace una solicitud hasta que llega al servidor.',
     },
@@ -148,7 +148,7 @@ export default {
         'modelo de programación que consiste en mapear tablas de un modelo relacional a objetos en el paradigma de programación orientada a objetos.',
     },
     {
-      termino: '<em>Shell</em>',
+      termino: 'Shell',
       significado: 'ventana de comandos',
     },
   ],
@@ -215,26 +215,46 @@ export default {
           cargo: 'Corrector de estilo',
           centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Metodología para la formación virtual',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
       ],
     },
     {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Yuly Andrea Rey Quiñonez',
           cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
-        },
-        {
-          nombre: 'Jhon Jairo Urueta Alvarez',
-          cargo: 'Desarrollador Fullstack',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          nombre: 'Jhon Jairo Urueta Alvarez',
+          cargo: 'Desarrollador fullstack',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Animación y producción audiovisual',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Lady Adriana Ariza Luque',
+          cargo: 'Animación y producción audiovisual',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Laura Gisselle Murcia Pardo',
+          cargo: 'Animación y producción audiovisual',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -242,14 +262,22 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
-          cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre validador',
-          cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo: 'Validación de recursos educativos',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Leyson Fabián Castaño Pérez',
+          cargo: 'Validación y vinculación al LMS',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },

@@ -47,7 +47,7 @@
     color: $color-sistema-texto
 
 .tarjeta.color-secundario
-  p,b
+  p,b,i
     color: $color-sistema-texto
 
 .tarjeta.color-secundario1
@@ -56,15 +56,18 @@
 .tarjeta.color-secundario2
   background-color: #FFEDB2
 
+.tarjeta--azul
+  background-color: #C2E3E8
+
+.tarjeta.tarjeta--azul.acordion__activo
+  background-color: #D9FAFF
+
 .tarjeta.tarjeta--azul2
   background-image: url(../assets/curso/tema2/img4.svg)
   background-repeat: no-repeat
   background-size: cover
-  height: 210px
-  @media screen and ( max-width: $bp-max-lg )
-    height: 240px
-  @media screen and ( max-width: $bp-max-sm )
-    height: 410px
+  background-position: 20%
+  height: auto
 
 .lista-ol--cuadro__vineta
   background-color: #0097F1
@@ -73,6 +76,8 @@
 .tarjeta-flip.color-primario .tarjeta-flip__contenido
   background-color: #FFEDB2
   height: 350px
+  i
+    color: $color-sistema-texto
 
 .tarjeta.tarjeta--verde
   background-color: #FFD44D
