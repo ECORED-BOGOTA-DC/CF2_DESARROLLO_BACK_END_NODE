@@ -35,7 +35,7 @@
         .px-5.pt-5
           figure(data-aos="fade-left")
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/wNefkrfG8yc?si=DvpFqBrrIibYUIfH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5(data-aos="fade-down") Basado en la explicación anterior, en la siguiente figura se visualiza el resultado final esperado luego de realizar el proceso de creación y configuración inicial del servidor:
     .row.bg-c7(data-aos="fade-left")
       .col-12
@@ -119,7 +119,7 @@
         .px-5.pt-5
           figure(data-aos="fade-left")
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/9_WL2aaiP_M?si=k3WKK7WLHRt0_UIJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.align-items-center.mb-5
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         p El último paso para completar la API RESTful es la construcción de las rutas. Tenga en cuenta que estas deben ser importadas en la clase de servidor. Se recomienda tener direcciones de rutas por cada modelo del esquema de la base de datos e implementar como mínimo en el controlador todos los métodos tipo CRUD que serán utilizados por los clientes externos.
@@ -132,7 +132,7 @@
         .px-5.pt-5
           figure(data-aos="fade-left")
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/SsIRm0szSa8?si=ebYKjb0Mv4Xt-_TD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure

@@ -19,7 +19,7 @@
               p.mb-0 Le damos la bienvenida a este componente formativo en el que se estudiará la construcción de API RESTful con Node.js; para conocer la importancia del tema y los diferentes componentes que se incluirán le invitamos a ver el siguiente video:
           figure(data-aos="fade-left")
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/GEgsJSgEPAk?si=JY9qzgPPd-YH0Tzi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
 </template>
 

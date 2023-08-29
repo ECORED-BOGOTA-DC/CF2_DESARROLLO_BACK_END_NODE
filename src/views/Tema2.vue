@@ -156,7 +156,7 @@
                 |, en este caso, le invitamos a observar el siguiente video, en el que se presenta el proceso para la instalación y configuración de Postman:
           figure(data-aos="fade-left")
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/sKE8aTvoml8?si=HMC6QctiRUN1rJFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     Separador
     #t_2_2
     .titulo-segundo.color-acento-contenido
