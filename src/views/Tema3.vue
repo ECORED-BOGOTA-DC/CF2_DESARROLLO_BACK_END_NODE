@@ -45,7 +45,7 @@
           .row.justify-content-center
             .col-lg-10
               figure
-                img(src='@/assets/curso/tema3/img1.png', style="width: 1200px" ,alt='').m-auto
+                img(src='@/assets/curso/tema3/img1.png', style="width: 1200px" ,alt='Figura 5. Muestra la ejecucción del servidor Node.js por medio de la terminar Visual Studio Code que de igual manera se transcribe la información luego de la imagen.').m-auto
     Separador
     #t_3_2
     .titulo-segundo.color-acento-contenido
@@ -75,7 +75,7 @@
           .row.justify-content-center
             .col-lg-10
               figure
-                img(src='@/assets/curso/tema3/img3.png', style="width: 1200px" ,alt='').m-auto
+                img(src='@/assets/curso/tema3/img3.png', style="width: 1200px" ,alt='Figura 6. muestra el esquema general de un modelo, que luego de la figura se describe como aparece en esta.').m-auto
     p.mb-5(data-aos="fade-down") Una vez definidos los modelos se deben crear los controladores que determinan las operaciones a realizar en dicho modelo, entre las más comunes se encuentran:
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-10.col-md-7.col-lg-3.mb-4.mb-lg-0
@@ -186,7 +186,7 @@
           .row.justify-content-center
             .col-lg-10
               figure
-                img(src='@/assets/curso/tema3/img6.png', style="width: 1200px" ,alt='').m-auto
+                img(src='@/assets/curso/tema3/img6.png', style="width: 1200px" ,alt='Figura 7. Muestra el esquema general con la actualización de un modelo, se describe exactamente su interior luego de la imagen.').m-auto
     .row.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
@@ -202,7 +202,7 @@
           .row.justify-content-center
             .col-lg-10
               figure
-                img(src='@/assets/curso/tema3/img8.png', style="width: 1200px" ,alt='').m-auto
+                img(src='@/assets/curso/tema3/img8.png', style="width: 1200px" ,alt='Figura 8. Muestra el borrador de la estructura de una función que permite eliminar un documento, luego de la figura se escribe de manera textual lo que aparece en la figura.').m-auto
     .row.align-items-center.mb-5
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
         p.mb-0 Finalmente, recuerde que cada función del controlador debe ser explotada al módulo por medio del comando:

@@ -30,7 +30,7 @@
     .row.align-items-center.mb-3
       .col-lg-8.mb-4.mb-lg-0(data-aos="fade-right")
         figure.mb-4
-          img(src='@/assets/curso/tema1/img3.svg', style="width: 850px" ,alt='').m-auto
+          img(src='@/assets/curso/tema1/img3.svg', style="width: 850px" ,alt='Imagen que muestra en una flecha a la derecha la palabra Rest luego una nube y seguido de esta una flecha señalando hacia la nube con la palabra Soap.').m-auto
         p Una de las características de REST consiste en el no almacenamiento del estado; es decir, cada vez que se realiza una solicitud de transmisión, el emisor se debe identificar por medio de credenciales o #[i tokens], ya que esta información no se almacena de ninguna forma. Aunque esto parece una desventaja, se encuentra que, al no tratar con el manejo de memoria, se disminuyen los procesos requeridos para el procesamiento de los datos y lo hace altamente compatible para ser utilizado por cualquier tecnología y para entornos con necesidades de escalamiento horizontal.
         p.mb-0 Por medio de una API REST se pueden implementar los HTTP Verbs o los métodos HTTP, por medio de los cuales se especifica el tipo de solicitud que se realiza al servidor y así este puede dar el tratamiento adecuado y ofrecer respuestas correctas.
       .col-lg-4(data-aos="fade-left")

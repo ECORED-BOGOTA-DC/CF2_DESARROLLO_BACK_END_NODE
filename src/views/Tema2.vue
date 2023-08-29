@@ -52,7 +52,7 @@
           .row.justify-content-center
             .col-lg-10
               figure
-                img(src='@/assets/curso/tema2/img2.png', style="width: 1200px" ,alt='').m-auto
+                img(src='@/assets/curso/tema2/img2.png', style="width: 1200px" ,alt='Figura 1. Muestra los diferentes instaladores para Node.js como son: Instalador de Windows, el Instalador de MacOS y el código fuente, con las últimas características y las plataformas adicionales.').m-auto
                 figcaption.mt-3 Nota. 
                   | 
                   a(href="https://nodejs.org/es/download/" target="_blank") #[u https://nodejs.org/es/download/]
@@ -109,7 +109,7 @@
           .row.justify-content-center
             .col-lg-10
               figure
-                img(src='@/assets/curso/tema2/img4.png', style="width: 1200px" ,alt='').m-auto
+                img(src='@/assets/curso/tema2/img4.png', style="width: 1200px" ,alt='Figura 2. Muestra las diversas versiones de instaladores de visual studio code como son: Windows, deb, .rpm y Mac.').m-auto
                 figcaption.mt-3 Nota. 
                   | 
                   a(href="https://code.visualstudio.com/Download" target="_blank") #[u https://code.visualstudio.com/Download]
@@ -117,7 +117,7 @@
     .row.align-items-center.mb-3
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema2/img5.svg', style="width: 410px" ,alt='').m-auto
+          img(src='@/assets/curso/tema2/img5.svg', style="width: 410px" ,alt='Imagen que muestra las siguientes palabras: Post, Put, Patch y Delete.').m-auto
       .col-lg-8(data-aos="fade-left")
         p Recordemos que hay otros tipos de métodos que requieren de un mecanismo que permita identificar los parámetros y el tipo de método para ser procesado en el servidor.
         p.mb-0 Para suplir esta necesidad, se recomienda instalar Postman, plataforma que facilita la construcción y prueba de APIS con una versión libre, con las funcionalidades necesarias para la verificación del funcionamiento de todos los métodos HTTP de nuestras API RESTFul.
@@ -138,7 +138,7 @@
           .row.justify-content-center
             .col-lg-10
               figure
-                img(src='@/assets/curso/tema2/img5.png', style="width: 1200px" ,alt='').m-auto
+                img(src='@/assets/curso/tema2/img5.png', style="width: 1200px" ,alt='Figura 3. corresponde a la imagen que se observa al entrar a la interfaz de Postman.').m-auto
                 figcaption.mt-3 Nota. 
                   | 
                   a(href="https://www.postman.com" target="_blank") #[u https://www.postman.com]
@@ -303,7 +303,7 @@
           .row.justify-content-center
             .col-lg-10
               figure
-                img(src='@/assets/curso/tema2/img15.png', style="width: 1200px" ,alt='').m-auto
+                img(src='@/assets/curso/tema2/img15.png', style="width: 1200px" ,alt='Figura 4. Muestra el esquema de manejo de rutas de Node que se describe igual debajo de la figura.').m-auto
     p.mb-0(data-aos="fade-right") Como se puede observar en la imagen se necesita de una instancia de la clase Router() de express; luego, se debe instanciar el controlador que tiene definidas las acciones para un modelo específico y finalmente, con la instancia de la clase #[i router] definimos el método HTTP, la ruta relativa por donde será accedido desde una solicitud web a la API publicada por el servicio junto a la función específica en el controlador encargado de darle respuesta.
 
 </template>
