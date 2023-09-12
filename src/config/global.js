@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Construcción de API RESTful Con Node.js',
+    componenteFormativo: 'Construcción de API RESTful con Node.js',
     descripcionCurso:
       'En este componente formativo se hará uso de Node.js para crear una API RESTful que se comunique con una base de datos MongoDB para permitir la ejecución de algunas operaciones CRUD.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),

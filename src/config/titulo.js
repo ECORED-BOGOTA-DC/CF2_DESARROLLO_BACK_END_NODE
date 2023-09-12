@@ -1,1 +1,1 @@
-module.exports = 'Construcción de API RESTful Con Node.js'
+module.exports = 'Construcción de API RESTful con Node.js'

@@ -83,7 +83,7 @@
               figure
                 img(src='@/assets/curso/tema1/img8.png', style="width: 450px" ,alt='Texto que describa la imagen').m-auto
     p.mb-5(data-aos="fade-right") Ahora bien, según Red Hat (2020) una API RESTful debe cumplir con los siguientes criterios:
-    SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="fade-left")
+    SlyderF(columnas="col-md-6 col-xl-4")(data-aos="fade-left")
       .tarjeta.color-primario.p-4
         .row.justify-content-center.mb-3
           .col-12
@@ -113,9 +113,10 @@
 </template>
 
 <script>
+import SlyderF from '@/components/SlyderF.vue'
 export default {
   name: 'Tema1',
-  components: {},
+  components: { SlyderF },
   data: () => ({
     // variables de vue
   }),

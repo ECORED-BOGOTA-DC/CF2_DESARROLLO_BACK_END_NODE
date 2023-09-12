@@ -41,7 +41,7 @@
       h2 2.1 Instalación de herramientas
     p(data-aos="fade-right") Para la instalación de Node.js se recomienda acceder a su página oficial de descargas ubicada en la dirección: 
       |
-      a(href="https://nodejs.org/es/download/" target="_blank") https://nodejs.org/es/download/
+      a(href="https://nodejs.org/es/download/" target="_blank") #[u.txt-c1 https://nodejs.org/es/download/]
       |, en donde se presentan distribuciones para los sistemas operativos Windows y MacOS e incluso con el código fuente, recordemos que esta es una plataforma #[i open source].
     p(data-aos="fade-down") En la siguiente figura se observan las diferentes posibilidades de instalación habilitadas actualmente:
     .row.bg-c4(data-aos="fade-right")
@@ -55,7 +55,7 @@
                 img(src='@/assets/curso/tema2/img2.png', style="width: 1200px" ,alt='Figura 1. Muestra los diferentes instaladores para Node.js como son: Instalador de Windows, el Instalador de MacOS y el código fuente, con las últimas características y las plataformas adicionales.').m-auto
                 figcaption.mt-3 Nota. 
                   | 
-                  a(href="https://nodejs.org/es/download/" target="_blank") #[u https://nodejs.org/es/download/]
+                  a(href="https://nodejs.org/es/download/" target="_blank") #[u.txt-c1 https://nodejs.org/es/download/]
     p.mb-5(data-aos="fade-down") Como se observa en dicha figura, la página oficial recomienda la descarga de versiones LTS (#[i Long Term Support]), lo que significa que estas versiones tienen soporte de largo plazo y un funcionamiento estable, altamente validado y con gran cantidad de documentación asociada.
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-8
@@ -99,7 +99,7 @@
           img(src='@/assets/curso/tema2/img3.png', style="width: 410px" ,alt='').m-auto
     p.mb-5(data-aos="fade-right") Visual Studio Code puede ser descargado de forma gratuita directamente desde su página oficial: 
       |
-      a(href="https://code.visualstudio.com/Download" target="_blank") https://code.visualstudio.com/Download
+      a(href="https://code.visualstudio.com/Download" target="_blank") #[u.txt-c1 https://code.visualstudio.com/Download]
       |, está disponible para sistemas operativos Windows, versiones de Linux Debian, Ubuntu, Red Hat, Fedora y SUSE y sistema operativo MacOS.
     .row.bg-c4.mb-5(data-aos="fade-down")
       .col-12
@@ -112,7 +112,7 @@
                 img(src='@/assets/curso/tema2/img4.png', style="width: 1200px" ,alt='Figura 2. Muestra las diversas versiones de instaladores de visual studio code como son: Windows, deb, .rpm y Mac.').m-auto
                 figcaption.mt-3 Nota. 
                   | 
-                  a(href="https://code.visualstudio.com/Download" target="_blank") #[u https://code.visualstudio.com/Download]
+                  a(href="https://code.visualstudio.com/Download" target="_blank") #[u.txt-c1 https://code.visualstudio.com/Download]
     p(data-aos="fade-right") Por último, se requiere de un sistema que nos permita hacer uso de la API REST para verificar su funcionamiento; recordemos que la API RESTful es un intermediario entre un sistema de base de datos y una aplicación que hace uso de estos servicios. Si bien las solicitudes que se realizan a la API se hacen por medio de HTTP, solo las solicitudes de tipo GET pueden ser verificadas por medio de un navegador web.
     .row.align-items-center.mb-3
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
@@ -129,7 +129,7 @@
         | 
         p.mb-0 Descargue la versión #[i desktop] desde la página oficial disponible en: 
           |
-          a(href="https://www.postman.com/downloads/" target="_blank") https://www.postman.com/downloads/
+          a(href="https://www.postman.com/downloads/" target="_blank") #[u.txt-c1 https://www.postman.com/downloads/]
     .row.bg-c4.mb-5(data-aos="fade-down")
       .col-12
         .p-4.p-lg-5
@@ -141,7 +141,7 @@
                 img(src='@/assets/curso/tema2/img5.png', style="width: 1200px" ,alt='Figura 3. corresponde a la imagen que se observa al entrar a la interfaz de Postman.').m-auto
                 figcaption.mt-3 Nota. 
                   | 
-                  a(href="https://www.postman.com" target="_blank") #[u https://www.postman.com]
+                  a(href="https://www.postman.com" target="_blank") #[u.txt-c1 https://www.postman.com]
     .row.bg-c1
       .col-12
         .px-5.pt-5
@@ -152,7 +152,7 @@
               | 
               p.mb-0 Realice el registro en línea, ingresando a la página oficial disponible en: 
                 |
-                a(href="https://www.postman.com/downloads/" target="_blank") https://www.postman.com
+                a(href="https://www.postman.com/downloads/" target="_blank") #[u.txt-c1 https://www.postman.com]
                 |, en este caso, le invitamos a observar el siguiente video, en el que se presenta el proceso para la instalación y configuración de Postman:
           figure(data-aos="fade-left")
             .video
@@ -299,7 +299,7 @@
       .col-12
         .p-4.p-lg-5
           .titulo-sexto.color-acento-contenido.mb-5
-            p.mb-0 #[b Figura 4]. Esquema general de manejo de rutas en Node.
+            p.mb-0 #[b Figura 4]. Esquema general de manejo de rutas en Node
           .row.justify-content-center
             .col-lg-10
               figure

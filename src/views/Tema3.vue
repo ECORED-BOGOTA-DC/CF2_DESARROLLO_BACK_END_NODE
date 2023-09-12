@@ -41,7 +41,7 @@
       .col-12
         .px-5
           .titulo-sexto.color-acento-contenido.mb-5
-            p.mb-0 #[b Figura 5]. Ejecución del servidor Node.js por medio de la terminal de Visual Studio Code.
+            p.mb-0 #[b Figura 5]. Ejecución del servidor Node.js por medio de la terminal de Visual Studio Code
           .row.justify-content-center
             .col-lg-10
               figure
@@ -64,14 +64,14 @@
             .col-md.col-lg-6
               h3(style="color: #12263F") Para tener más detalles puede consultar el siguiente enlace:
               a.boton.color-acento-botones.texto-blanco(href="https://mongoosejs.com/docs/guide.html" target="_blank" type="application/pdf")
-                span(style="color: #12263F !important") Descargar
-                i.fas.fa-file-download(style="color: #12263F !important")
+                span(style="color: #12263F !important") Link
+                i.fas.fa-link(style="color: #12263F !important")
     p.mb-5 Veamos entonces a través de la siguiente figura la estructura general requerida para crear un nuevo modelo:
     .row.bg-c7.mb-5(data-aos="fade-right")
       .col-12
         .px-5
           .titulo-sexto.color-acento-contenido.mb-5
-            p.mb-0 #[b Figura 6]. Esquema general de un modelo.
+            p.mb-0 #[b Figura 6]. Esquema general de un modelo
           .row.justify-content-center
             .col-lg-10
               figure
@@ -112,7 +112,7 @@
         .col-auto
           a.boton.color-acento-botones.texto-blanco(href="https://mongoosejs.com/docs/models.html" target="_blank" type="application/pdf")
             span(style="color: #12263F !important") Ver Enlace
-            i.fas.fa-file-download(style="color: #12263F !important")
+            i.fas.fa-link(style="color: #12263F !important")
     p.mb-5 Para ejemplificar un poco este tema, en el siguiente video se presenta un ejemplo, que muestra el proceso para crear un modelo y su correspondiente controlador, con lo cual se responde a tres diferentes funciones asociadas a los métodos HTTP GET y POST:
     .row.bg-c1.mb-5(data-aos="fade-left")
       .col-12
@@ -147,7 +147,7 @@
             .col-12
               p Recibe como parámetro el Id del documento a buscar para la actualización  y el objeto con la información a ser utilizada en la actualización.
               p Si encuentra el registro, le aplica los cambios determinados en el objeto enviado y retorna el registro encontrado como respuesta.
-              p.mb-0 Ejecuta el comando #[b.txt-c1 findOneAndUpdate] en mongoDB
+              p.mb-0 Ejecuta el comando #[b.txt-c1 findOneAndUpdate] en MongoDB
           .row(titulo="findByIdAndDelete()")
             .col-12
               p Recibe como parámetro el Id del documento a buscar, que será eliminado.
@@ -182,7 +182,7 @@
       .col-12
         .px-5
           .titulo-sexto.color-acento-contenido.mb-5
-            p.mb-0 #[b Figura 7]. Esquema general para la actualización de un documento de un modelo específico.
+            p.mb-0 #[b Figura 7]. Esquema general para la actualización de un documento de un modelo específico
           .row.justify-content-center
             .col-lg-10
               figure
@@ -198,7 +198,7 @@
       .col-12
         .px-5
           .titulo-sexto.color-acento-contenido.mb-5
-            p.mb-0 #[b Figura 8]. Esquema general para la eliminación de un documento de un modelo específico.
+            p.mb-0 #[b Figura 8]. Esquema general para la eliminación de un documento de un modelo específico
           .row.justify-content-center
             .col-lg-10
               figure
