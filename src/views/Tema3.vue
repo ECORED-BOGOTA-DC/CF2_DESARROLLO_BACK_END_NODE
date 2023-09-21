@@ -108,7 +108,7 @@
         .col-8.col-sm-6.col-md-3.mb-4.mb-md-0
           img(src="@/assets/curso/tema3/img2.svg")
         .col-md.col-lg-6
-          h3(style="color: #12263F") Si desea profundizar en la funciones disponibles para los modelos de Mongoose, consulte la documentación oficial disponible en:
+          h3(style="color: #12263F") Si desea profundizar en las funciones disponibles para los modelos de Mongoose, consulte la documentación oficial disponible en:
         .col-auto
           a.boton.color-acento-botones.texto-blanco(href="https://mongoosejs.com/docs/models.html" target="_blank" type="application/pdf")
             span(style="color: #12263F !important") Ver Enlace
