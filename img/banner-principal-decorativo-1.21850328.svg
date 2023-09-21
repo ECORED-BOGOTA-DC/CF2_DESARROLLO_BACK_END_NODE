@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69.715" height="77.868" viewBox="0 0 69.715 77.868">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_374879" data-name="Rectángulo 374879" width="69.715" height="77.868" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1065852" data-name="Grupo 1065852" transform="translate(0 0)">
+    <g id="Enmascarar_grupo_1065851" data-name="Enmascarar grupo 1065851" clip-path="url(#clip-path)">
+      <path id="Trazado_800278" data-name="Trazado 800278" d="M69.715,34.858a35.014,35.014,0,1,0-26.478,33.8l17.884,9.21L58.428,60.485A34.723,34.723,0,0,0,69.715,34.858" fill="#00eb6d"/>
+      <path id="Trazado_800279" data-name="Trazado 800279" d="M34.858.463A34.853,34.853,0,0,1,69.709,35.082c0-.075.006-.149.006-.224A34.857,34.857,0,1,0,0,34.858c0,.078.006.154.006.231A34.854,34.854,0,0,1,34.858.463" fill="#0097f1"/>
+      <path id="Trazado_800280" data-name="Trazado 800280" d="M8.074,34.726,22.656,20.144l3.224,3.224L14.517,34.732,25.88,46.095l-3.224,3.224L8.074,34.737l.006-.005Z" fill="#001d4d"/>
+      <path id="Trazado_800281" data-name="Trazado 800281" d="M61.641,34.726,47.059,20.144l-3.224,3.224L55.2,34.732,43.835,46.095l3.224,3.224L61.641,34.737l-.006-.005Z" fill="#001d4d"/>
+      <path id="Trazado_800282" data-name="Trazado 800282" d="M41.411,49.416H36.389L28.7,20.047h5.022Z" fill="#0097f1"/>
+    </g>
+  </g>
+</svg>
